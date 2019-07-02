@@ -1,6 +1,6 @@
 "
 " Author: Frank
-" Repository: https://github.com/Frank-Zuo/vim_config
+" Repository: https://github.com/Frank-Zuo/vimconfig
 " Create Date: 2019-02-24
 "
 " NOTE: Only use the config which you know ti's meaning.
